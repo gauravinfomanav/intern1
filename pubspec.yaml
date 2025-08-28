@@ -1,0 +1,11 @@
+name: screen1
+description: 'Standalone Screen1 for intern'
+publish_to: 'none'
+environment:
+  sdk: ^3.6.1
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+flutter:
+  uses-material-design: true
